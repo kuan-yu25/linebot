@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/Nina0119/1226.git
+git branch -M main
+git push -u origin main
